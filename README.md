@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/66674488/129814218-e0c57d26-407e-433c-
 
 
 
-Task 2 (Write a simple program that prints your name using your language of choice) is the dart file named **[Task2-PrintMyName.dart](https://github.com/prosperkalu99/HNGintership-Stage2_task/blob/master/Task2-PrintMyName.dart "Task2-PrintMyName.dart")**
+Link to Task 2 (Write a simple program that prints your name using your language of choice) => **[PrintMyName Dart Program](https://github.com/prosperkalu99/HNGintership-Stage2_task/blob/master/Task2-PrintMyName.dart "Task2-PrintMyName.dart")**
 
 
 
